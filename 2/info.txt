@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: PermianSerifTypeface-Bold
+font link: https://www.fontsquirrel.com/fonts/permian-serif
+font author: Ilya Ruderman
+font author site: 
+
+
+icon designer: Cassandra Cappello
+icon designer link: /cappellodesigns
+        
+
+fontColor: {"gradient-0":"#29E215","gradient-1":"#16748A"}
+bgColor: {"hex":""}
+iconColor: {"gradient-0":"#29E215","gradient-1":"#16748A"}
+
+      

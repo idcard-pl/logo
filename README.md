@@ -1,8 +1,4 @@
-# logo
-Logotyp idcard.pl
-
-
-# Logotyp decentralizacja.pl
+# Logotyp idcard.pl
 + [Landing page: www.idcard.pl](https://www.idcard.pl/)
 + [Dokumentacja](https://docs.idcard.pl/)
 + [Logotyp idcard.pl](https://logo.idcard.pl/)
